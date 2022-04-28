@@ -6,4 +6,4 @@ Team:
 
 - Hui Zheng - 180050921, 
 - Emre Dogan - 180010270, 
-- Éamonn Ó Cearnaigh ("Kearney") - 180001598
+- Éamonn Ó Cearnaigh - 180001598
